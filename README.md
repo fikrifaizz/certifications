@@ -1,4 +1,32 @@
 # Certifications
 
 - **Machine Learning Engineer – DBS Foundation Coding Camp (2024)**
-  - [View]()
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Expert%20Machine%20Learning%20Enggineer.pdf)
+- **Applied Machine Learning - Dicoding Indonesia**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Machine%20Learning%20Terapan.pdf)
+  - [View Credential](https://www.dicoding.com/certificates/QLZ9VVQNEX5D)
+- **Natural Language Processing - DeepLearning.AI**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Natural%20Language%20Processing%20Specialization.pdf)
+  - [View Credential](https://coursera.org/share/99a628019fe6b0fb36df33e399b1c685)
+- **Generative Adversarial Networks (GANs) -  DeepLearning.AI**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Generative%20Adversial%20Networks%20(GANs)%20Specialization.pdf)
+  - [View Credential](https://coursera.org/share/9fc94b86bd82a8eb1e343f51b5e830cf)
+- **TensorFlow: Advanced Techniques - DeepLearning.AI**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/TensorFlow%20Advanced%20Techniques%20Specialization.pdf)
+  - [View Credential](https://coursera.org/share/115baf1330b738e52f3cecafa3a1e1b4)
+- **TensorFlow: Data and Deployment - DeepLearning.AI**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/TensorFlow%20Data%20and%20Deployment%20Specialization.pdf)
+  - [View Credential](https://coursera.org/share/2af1958f0387eabb488b722aa1c49138)
+- **Deep Learning - DeepLearning.AI**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Deep%20Learning%20Specialization.pdf)
+  - [View Credential](https://coursera.org/share/bf590fa5c5843b4e32fe1faae75e0a4a)
+- **DeepLearning.AI TensorFlow Developer - DeepLearning.AI**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/DeepLearning.AI%20TensorFlow%20Developer%20Specialization.pdf)
+  - [View Credential](https://coursera.org/share/7986d8c9838b2ebffb8b9ecf0ed34c41)
+- **Machine Learning - DeepLearning.AI**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Machine%20Learning%20Specialization.pdf)
+  - [View Credential](https://coursera.org/share/5a42efc06aad102156099f36e7e075f2)
+- **Mathematics for Machine Learning and Data Science - DeepLearning.AI**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Mathematics%20for%20Machine%20Learning%20and%20Data%20Science%20Specialization.pdf)
+  - [View Credential](https://coursera.org/share/96dc3232e95d85daed81a86d03c0f030)
+
