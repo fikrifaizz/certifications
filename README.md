@@ -29,4 +29,24 @@
 - **Mathematics for Machine Learning and Data Science - DeepLearning.AI**
   - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Mathematics%20for%20Machine%20Learning%20and%20Data%20Science%20Specialization.pdf)
   - [View Credential](https://coursera.org/share/96dc3232e95d85daed81a86d03c0f030)
-
+- **Learn Data Analysis with Python - Dicoding Indonesia**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Belajar%20Analisis%20Data%20dengan%20Python.pdf)
+  - [View Credential](https://www.dicoding.com/certificates/1OP8WGQ42XQK)
+- **Learn the basics of AI - Dicoding Indonesia**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Belajar%20Dasar%20AI.pdf)
+  - [View Credential](https://www.dicoding.com/certificates/JLX178J15X72)
+- **Learn the basics of Data Science - Dicoding Indonesia**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Belajar%20Dasar%20Data%20Science.pdf)
+  - [View Credential](https://www.dicoding.com/certificates/98XWL9J5LZM3)
+- **Learn the basics of Project Management - Dicoding Indonesia**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Belajar%20Dasar%20Manajemen%20Proyek.pdf)
+  - [View Credential](https://www.dicoding.com/certificates/GRX5O602RP0M)
+- **Learn the basics of JavaScript programming - Dicoding Indonesia**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Belajar%20Dasar%20Pemrograman%20JavaScript.pdf)
+  - [View Credential](https://www.dicoding.com/certificates/L4PQ5D912ZO1)
+- **Learn the basics of Web Programming - Dicoding Indonesia**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Belajar%20Dasar%20Pemrograman%20Web.pdf)
+  - [View Credential](https://www.dicoding.com/certificates/6RPNR33O4X2M)
+- **Learn the basics of Structured Query Language (SQL) - Dicoding Indonesia**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Belajar%20Dasar%20Structured%20Query%20Language%20(SQL).pdf)
+  - [View Credential](https://www.dicoding.com/certificates/QLZ97MWYEP5D)
