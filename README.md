@@ -50,3 +50,21 @@
 - **Learn the basics of Structured Query Language (SQL) - Dicoding Indonesia**
   - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Belajar%20Dasar%20Structured%20Query%20Language%20(SQL).pdf)
   - [View Credential](https://www.dicoding.com/certificates/QLZ97MWYEP5D)
+- **Learn the basics of Data Visualization - Dicoding Indonesia**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Belajar%20Dasar%20Visualisasi%20Data.pdf)
+  - [View Credential](https://www.dicoding.com/certificates/QLZ9737K2P5D)
+- **Learn machine learning for beginners - Dicoding Indonesia**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Belajar%20Machine%20Learning%20untuk%20Pemula.pdf)
+  - [View Credential](https://www.dicoding.com/certificates/EYX4VQLO5ZDL)
+- **Learn to Create Front-End Web for Beginners - Dicoding Indonesia**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Belajar%20Membuat%20Front-End%20Web%20untuk%20Pemula.pdf)
+  - [View Credential](https://www.dicoding.com/certificates/QLZ9VJY27X5D)
+- **Learn Machine Learning Development - Dicoding Indonesia**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Belajar%20Pengembangan%20Machine%20Learning.pdf)
+  - [View Credential](https://www.dicoding.com/certificates/EYX4V3KK6ZDL)
+- **Learn Self Development Strategies - Dicoding Indonesia**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Belajar%20Strategi%20Pengembangan%20Diri.pdf)
+  - [View Credential](https://www.dicoding.com/certificates/MEPJQK3LLX3V)
+- **Getting Started with Python Programming - Dicoding Indonesia**
+  - [Download PDF](https://github.com/fikrifaizz/certifications/blob/main/appendix/Memulai%20Pemrograman%20dengan%20Python.pdf)
+  - [View Credential](https://www.dicoding.com/certificates/98XWLKL29ZM3)
